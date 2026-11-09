@@ -6,7 +6,7 @@ def greet(name):
     return f"Hello, {name}! Welcome to Git."
 
 def farewell(name):
-    """Return a goodbye message for the given name."""
+    """Return a goodbye message for the given name with chaNGES."""
     return f"Goodbye, {name}! See you next commit."
 
 # This block runs only when the file is executed directly,
